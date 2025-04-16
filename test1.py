@@ -15,7 +15,7 @@ import pandas as pd
 # df=pd.read_csv("apple.csv")   
 
 
-
+print "hello world"
 #%%
 
 pd.DataFrame(np.random.rand(5, 10))
